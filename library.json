@@ -1,0 +1,23 @@
+{
+  "name": "UbxGPS",
+  "version": "0.0.1",
+  "description": "A library for NEO-8M module on mbedOS for Arduino Giga R1",
+  "keywords": "serial, bus, gps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h3cx/UbxGPS.git"
+  },
+  "authors": [
+    {
+      "name": "Hector van der Aa",
+      "email": "h3cx@h3cx.dev",
+      "url": "https://github.com/h3cx",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/h3cx/UbxGPS",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*"
+}
